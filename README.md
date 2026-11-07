@@ -1,6 +1,6 @@
-# PrimeTech Solutions
+# Prime Tech Solutions
 
-Official website of **PrimeTech Solutions**
+Official website of **Prime Tech Solutions**
 
 Printer | Computer | Laptop Sales & Services
 
@@ -34,7 +34,7 @@ Patna, Bihar
 - 404 Page
 
 ---
-
+ 
 ## Technologies
 
 - HTML5
